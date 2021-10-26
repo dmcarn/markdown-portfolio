@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![github mascot](https://miro.medium.com/max/800/1*70aOJ1osE9C8cVZUkmH95g.png)
